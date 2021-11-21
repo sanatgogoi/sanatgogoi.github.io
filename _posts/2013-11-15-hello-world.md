@@ -1,16 +1,22 @@
 ---
 layout: post
-title: Hello World!
+title: About me!
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
 comments: true
 ---
 
-**dbyll** is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.  
+I am **Sanat Kumar Gogoi**, working as an Assistant Professor at Department of Physics, Digboi College, Digboi, Assam. [Digboi Collge](https://www.digboicollege.edu.in/) is one of the pioneer educational institutions located in the Eastern region of India, offering courses at undergraduate and post-graduate levels in the Science, Arts, and Commerce stream.  
 
-**dbyll** is brought to you by **[dbtek](http://ismaildemirbilek.com)**. Open sourced under [MIT](http://opensource.org/licenses/MIT) license.
+The **[Physics Department](https://sites.google.com/view/digboicollegephysics/home)** of Digboi College is offering **M.Sc. in Physics** under the affiliation of **Dibrugarh University** since 2016.
 
-### dbyll is on GitHub
+### Research Interest
 
-<a class="btn btn-default" href="https://github.com/dbtek/dbyll">Grab your copy now!</a>
+<a class="btn btn-default">Complex Oxides</a>
+<a class="btn btn-default">Electronic Properties</a>
+<a class="btn btn-default">Skyrmions</a>
+
+### Publications
+
+<a class="btn btn-default" href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.085120">Oxygen vacancy induced electronic structure modification of KTaO3</a>
