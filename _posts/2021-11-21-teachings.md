@@ -1,3 +1,10 @@
+---
+layout: post
+title: Teaching
+categories: [general, setup, demo]
+tags: [demo, dbyll, dbtek, setup]
+fullview: true
+---
 Academic year 2021-2022
 
 {% highlight yaml %}
