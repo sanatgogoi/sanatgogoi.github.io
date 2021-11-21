@@ -1,6 +1,6 @@
 Academic year 2021-2022
 
-{% highlight yaml %} title: dbyll author:
+{% highlight yaml %}
 Higher Secondary
   1st year
 B.Sc. Physics
