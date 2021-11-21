@@ -5,9 +5,9 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+disqus: Sanat Gogoi
+google_analytics: Sanat Gogoi
+title: Sanat Gogoi
 
 defaults:
   -
@@ -24,7 +24,7 @@ author:
   twitter: dbtek
   pinterest: asd123
   linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  bio: Assistant Professor, Dept. of Physics, Digboi College
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
