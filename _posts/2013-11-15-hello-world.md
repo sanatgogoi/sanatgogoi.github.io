@@ -19,4 +19,6 @@ The **[Physics Department](https://sites.google.com/view/digboicollegephysics/ho
 
 ### Publications
 
+<a class="btn btn-default" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/qute.202000021">Oxygen Vacancy-Induced Topological Hall Effect in a Nonmagnetic Band Insulator</a>
 <a class="btn btn-default" href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.085120">Oxygen vacancy induced electronic structure modification of KTaO3</a>
+
