@@ -14,13 +14,13 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Sanat Gogoi
 
-description: Stylish Jekyll Theme
+description: Assistant Professor, Dept. of Physics, Digboi College
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
+  name: Sanat Gogoi
+  email: gogoi.sanat@gmail.com
+  github: sanatgogoi
   twitter: dbtek
   pinterest: asd123
   linkedin: asd123
