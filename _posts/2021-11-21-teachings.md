@@ -18,3 +18,7 @@ M.Sc. Phyics
   1st Sem Mathematical Physics
   3rd Sem Consensed Matter Physics
 {% endhighlight %}
+
+### Add-On Course
+<a class="btn btn-default">Advanced Computational Methods</a>
+<a class="btn btn-default" href="https://github.com/sanatgogoi/sanatgogoi.github.io">Syllabus can be found here.</a>
