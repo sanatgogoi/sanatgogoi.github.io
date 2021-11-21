@@ -21,4 +21,4 @@ M.Sc. Phyics
 
 ### Add-On Course
 <a class="btn btn-default">Advanced Computational Methods</a>
-<a class="btn btn-default" href="https://github.com/sanatgogoi/sanatgogoi.github.io">Syllabus can be found here.</a>
+<a class="btn btn-default" href="https://github.com/sanatgogoi/sanatgogoi.github.io/blob/master/assets/media/syllabus_ACM.pdf">Syllabus can be found here.</a>
