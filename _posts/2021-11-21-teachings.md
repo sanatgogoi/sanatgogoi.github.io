@@ -17,7 +17,7 @@ B.Sc. Physics
   5th Sem Classical Dynamics
 M.Sc. Phyics
   1st Sem Mathematical Physics
-  3rd Sem Consensed Matter Physics
+  3rd Sem Condensed Matter Physics
 {% endhighlight %}
 
 ### Add-On Course
