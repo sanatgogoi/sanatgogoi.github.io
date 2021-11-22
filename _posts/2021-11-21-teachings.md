@@ -25,7 +25,7 @@ M.Sc. Phyics
 
 This is an advanced course for B.Sc and M.Sc. level students. The course is designed to help the students 
 in solving various scientific problems numerically. This course will improve the ability of the students in handling
-data-sets, plotting in 2d, 3D and transforming an analytic problem into a numerial one. This course will also give a flovour of the numerical problems that one will face in persuing research oriented education.
+data-sets, plotting in 2D, 3D and transforming an analytic problem into a numerial one. This course will also give a flovour of the numerical problems that one will face in pursuing research oriented education.
 
 The course is **open to all B.Sc. and M.Sc. students**. There will be **no exam**. The grading will be based on Assignments and Seminar.
 
