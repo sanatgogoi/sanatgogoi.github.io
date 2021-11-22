@@ -9,10 +9,11 @@ Academic year 2021-2022
 
 {% highlight yaml %}
 Higher Secondary
-  1st year
+  1st year (Science)
 B.Sc. Physics
   1st Sem Mathematical Physics
   3rd Sem Scilab (Mathematical Physics Practical)
+  3rd Sem Thermal Physics
   5th Sem Classical Dynamics
 M.Sc. Phyics
   1st Sem Mathematical Physics
