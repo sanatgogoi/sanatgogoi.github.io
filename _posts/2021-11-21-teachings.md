@@ -30,3 +30,6 @@ data-sets, plotting in 2D, 3D and transforming an analytic problem into a numeri
 The course is **open to all B.Sc. and M.Sc. students**. There will be **no exam**. The grading will be based on Assignments and Seminar.
 
 <a class="btn btn-default" href="https://github.com/sanatgogoi/sanatgogoi.github.io/blob/master/assets/media/syllabus_ACM.pdf">Syllabus can be found here.</a>
+
+### Materials
+<a class="btn btn-default" href="https://github.com/sanatgogoi/sanatgogoi.github.io/blob/master/assets/media/Heat_capacity_of_1D_2D_and_3D_phonon.pdf">Heat capacity of 1D 2D and 3D phonons.</a>
